@@ -1,0 +1,6 @@
+@Specification.Pattern.WebApi_HostAddress = http://localhost:5247
+
+GET {{Specification.Pattern.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
